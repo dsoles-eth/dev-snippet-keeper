@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "dev-snippet-keeper"
+version = "0.1.0"
+description = "A privacy-focused CLI tool for storing, searching, and inserting reusable code snippets locally."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["python", "click", "sqlite", "rich", "fuzzywuzzy"]
+dependencies = ["click", "fuzzywuzzy", "rich", "secrets"]
+
+[project.urls]
+Homepage = "https://github.com/{GITHUB_USERNAME}/dev-snippet-keeper"
