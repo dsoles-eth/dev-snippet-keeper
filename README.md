@@ -1,6 +1,6 @@
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/dev-snippet-keeper?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/dsoles-eth/dev-snippet-keeper?style=social)
 
 # Dev Snippet Keeper
 
